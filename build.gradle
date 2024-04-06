@@ -61,7 +61,7 @@ subprojects {
 }
 
 dependencies {
-    implementation project(path: ':spigotmc', configuration: 'shadow')
+    implementation project(path: ':spigot', configuration: 'shadow')
 }
 
 shadowJar {
