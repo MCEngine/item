@@ -3,4 +3,4 @@ rootProject.name = 'mcengineitem'
 /*
     Server
 */
-include('spigotmc')
+include('spigot')
