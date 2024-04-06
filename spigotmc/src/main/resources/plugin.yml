@@ -1,0 +1,5 @@
+author: MCEngine
+name: MCEngineItem
+version: ${version}
+main: com.github.mcengine.MCEngineItem
+api-version: 1.17

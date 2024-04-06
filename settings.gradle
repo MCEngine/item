@@ -1,0 +1,6 @@
+rootProject.name = 'mcengineitem'
+
+/*
+    Server
+*/
+include('spigot')
